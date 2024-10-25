@@ -1,8 +1,8 @@
-**Deep Learning Project: Finetuning, understanding and pruning of large audio models**
+# Deep Learning Project: Finetuning, understanding and pruning of large audio models
 
 This is meant as a starting point for your project. I will share some resources here and a notebook you can use as a starting point. 
 
-You can always cocntact me at tksc@dtu.dk for any questions. Otherwise we will meet every Monday 13-15 at ... for a joint supervision meeting, please prepare a small update of what you did and plan to do next week. 
+You can always cocntact me at tksc@dtu.dk for any questions. We will meet every Monday 13-15 in buildign 321, room 232 for a joint supervision meeting, please prepare a small update of what you did and plan to do next week. 
 
 For the first two weeks you should define the scope of your project (minimum: decide on a task and dataset) and start finetuning a model. Also get familiar with the methods in the intro.ipnyb and maybe start a literature search of methods you want to apply later on (e.g. pruning, knowledge distillation, explainability). 
 
